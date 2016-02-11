@@ -1,0 +1,33 @@
+_repo: The-Pictorial-Field-Book-of-The-Revolution-Vol-2-of-2-or-Illustrations-by-Pen-And-Pencil-of-T__49352
+contributor:
+  illustrators:
+  - agent_name: Barritt
+    gutenberg_agent_id: '45285'
+    url: http://www.gutenberg.org/2009/agents/45285
+  - &id001
+    agent_name: Lossing, Benson John
+    alias: Lossing, Benson J. (Benson John)
+    birthdate: 1813
+    deathdate: 1891
+    gutenberg_agent_id: '4627'
+    url: http://www.gutenberg.org/2009/agents/4627
+    wikipedia: http://en.wikipedia.org/wiki/Benson_John_Lossing
+creator:
+  author: *id001
+description: ''
+gutenberg_issued: '2015-07-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '49352'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: 'The Pictorial Field-Book of The Revolution, Vol. 2 (of 2)
+
+  or,Illustrations, by Pen And Pencil, of The History,
+
+  Biography, Scenery, Relics, and Traditions of the War for
+
+  Independence'
+url: http://www.gutenberg.org/ebooks/49352
